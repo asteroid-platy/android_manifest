@@ -20,6 +20,9 @@
   <project path="hardware/libhardware" name="mer-hybris/android_hardware_libhardware" remote="github" revision="hybris-14.1"/>
   <project path="system/core" name="mer-hybris/android_system_core" remote="github" revision="hybris-14.1"/>
 
+  <!-- msm8909w hal -->
+  <project path="hardware/qcom/display/msm8909" name="asteroid-platy/android_hardware_qcom_display" remote="github" revision="cm-14.1-msm8909" />
+
   <!-- Upstream libhybris -->
   <project path="libhybris" name="libhybris/libhybris" remote="github" revision="master" />
 

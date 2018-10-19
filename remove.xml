@@ -7,6 +7,7 @@
   <remove-project name="platform/external/skia" />
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/system/core" />
+  <remove-project name="platform/hardware/qcom/display" />
 
   <!-- Remove unused AOSP device tree -->
   <remove-project name="device/asus/deb" />
