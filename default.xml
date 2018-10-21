@@ -11,7 +11,7 @@
   <include name="remove.xml" />
 
   <!-- Asteroid specific repositories based on sailfish work -->
-  <project path="build" name="mer-hybris/android_build" remote="github" revision="hybris-14.1"/>
+  <project path="build" name="mer-hybris/android_build" remote="github" revision="hybris-14.1"
     <copyfile src="core/root.mk" dest="Makefile"
   </project>
   <project path="bionic" name="mer-hybris/android_bionic" remote="github" revision="hybris-14.1"/>
