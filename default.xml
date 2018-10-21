@@ -12,7 +12,7 @@
 
   <!-- Asteroid specific repositories based on sailfish work -->
   <project path="build" name="mer-hybris/android_build" remote="github" revision="hybris-14.1"/>
-    <copyfile src="core/root.mk" dest="Makefile" />
+    <copyfile src="core/root.mk" dest="Makefile"
   </project>
   <project path="bionic" name="mer-hybris/android_bionic" remote="github" revision="hybris-14.1"/>
   <project path="external/skia" name="mer-hybris/android_external_skia" remote="github" revision="hybris-14.1"/>
