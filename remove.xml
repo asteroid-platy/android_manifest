@@ -155,7 +155,6 @@
   <remove-project name="platform/prebuilts/gdb/darwin-x86" />
   <remove-project name="platform/prebuilts/gdb/linux-x86" />
   <remove-project name="platform/prebuilts/go/darwin-x86" />
-  <remove-project name="platform/prebuilts/go/linux-x86" />
   <remove-project name="platform/prebuilts/gradle-plugin" />
   <remove-project name="platform/prebuilts/libs/libedit" />
   <remove-project name="platform/prebuilts/maven_repo/android" />
